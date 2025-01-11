@@ -37,3 +37,5 @@ Pull requests welcome! Or don't. I'm not your boss.
 ## License
 
 WTFPL - Do What The F*ck You Want Public License
+
+# PR Update: 2025-10-15 - docs/update-1819
